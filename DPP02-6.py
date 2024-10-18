@@ -1,0 +1,1 @@
+# Write a python program to replace all the occurences of a word in a string with another word. 
