@@ -1,2 +1,2 @@
 # Python_Programs-
-This file contain python programs for practice and their solutions.
+This file contain Python Programs for practice and their solutions.
